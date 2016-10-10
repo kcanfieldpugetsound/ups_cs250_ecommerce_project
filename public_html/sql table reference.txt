@@ -1,0 +1,2 @@
+ Products Table has fields:(Product TEXT, PId INT, Catergory TEXT, HeroId INT, Price DECIMAL(5,2), ShortDescr VARCHAR(140), LongDescr TEXT)
+CREATE TABLE Imgs(ProductId INT, ImgFile VARCHAR(255));
